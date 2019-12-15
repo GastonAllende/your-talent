@@ -14,10 +14,10 @@ Please follow the instructions below.
 
 ### Installing
 
-Clone repository
+Clone the repo
 
 ```
-git clone { repository }
+git clone https://github.com/GastonSaavedra/YourTalent.git
 ```
 
 Install Dependencies
