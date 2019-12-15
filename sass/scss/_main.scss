@@ -1,0 +1,61 @@
+
+/*---------------------------------
+    MAIN
+----------------------------------*/
+
+html,body{
+    color: white;
+    height: 100%;
+    position: relative;
+}
+
+#wrapper{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+
+.ui-loader{
+    display: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+body.back-img{
+    background-image: url('../../../img/start-back.png');
+    background-repeat: no-repeat;
+    background-position: center 40%;
+}
+
+.container-fluid.main-wrapper{
+    height: 100%;
+    position: relative;
+}
+
+
+/*---------------------------------
+    NAVIGATION
+----------------------------------*/
+
+
+.navbar-inverse{
+    border-radius: 0px;
+    margin: 0;
+}
+
+.navbar{
+    min-height: auto;
+    border: 0;
+    background: black;
+    height: 55px;
+    padding: 8px 0;
+}
+
+.ui-page.ui-page-theme-a.ui-page-active{
+    height: 100%
+}
+
+

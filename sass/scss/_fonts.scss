@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: sans-pro-regular;
+    src: url(fonts/SourceSansPro-Regular.ttf);
+}
+
+@font-face {
+    font-family: sans-pro-light;
+    src: url(fonts/SourceSansPro-Light.ttf);
+}
+
+@font-face {
+    font-family: sans-pro-bold;
+    src: url(fonts/SourceSansPro-Bold.ttf);
+}
+
+@font-face {
+    font-family: sans-pro-black;
+    src: url(fonts/SourceSansPro-Black.ttf);
+} 
+
+h1{
+    font-size: 34px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: sans-pro-light;
+}
+
+p{
+    font-size: 16px;
+    font-family: sans-pro-regular;
+}
+
+.font--bold{
+    font-family: sans-pro-bold;
+}
+
+.question-font--size{
+    font-size: 16px;
+    margin: 0;
+}

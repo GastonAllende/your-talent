@@ -1,0 +1,23 @@
+{
+  "name": "yourtalent",
+  "version": "1.0.0",
+  "description": "Quiz",
+  "main": "index.js",
+  "scripts": {
+    "start": "angular-http-server",
+    "sass": "sass --watch sass/style.scss:src/css/style.css",
+    "lint": "eslint \"src/js/*.js\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yourTalent"
+  },
+  "author": "Gaston",
+  "license": "ISC",
+  "devDependencies": {
+    "angular-http-server": "^1.9.0",
+    "eslint": "^6.7.2",
+    "sass": "^1.23.7"
+  }
+}
