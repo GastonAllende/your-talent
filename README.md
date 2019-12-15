@@ -26,7 +26,7 @@ Install Dependencies
 npm install
 ```
 
-And after, run the app
+Run the app
 
 ```
 npm start
