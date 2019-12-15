@@ -14,9 +14,13 @@ Please follow the instructions below.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Clone repository
 
-Say what the step will be
+```
+git clone { repository }
+```
+
+Install Dependencies
 
 ```
 npm install
