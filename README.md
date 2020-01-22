@@ -1,6 +1,6 @@
 # YourTalent
 
-Quiz i did for a customer in 2016. The quiz was to see what talent the person has. The questions and the answers are in Sweden. 
+Quiz i did for a customer in 2015. The quiz was to see what profile the person have. The questions and the answers are in Swedish. 
 
 ## Built With
 - Angular.js
